@@ -34,3 +34,18 @@ header nav ul li a {
 
 }
 
+article {
+    display: flex;
+    margin-top: 40px;
+    padding: 20px;
+}
+.article-text {
+    margin-left: 20px;
+}
+
+article img {
+    border-radius: 5%;
+    width: 300px;
+    height: 200px;
+}
+
